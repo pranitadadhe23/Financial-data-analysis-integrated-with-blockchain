@@ -1,0 +1,5 @@
+"Stock Ticker (e.g., AAPL)",Closing Price,50-Day Moving Average,200-Day Moving Average,Daily Return,Volatility,Prediction,timestamp
+TSLA,150.2,145.5,140.5,0.0023,15,Price will go DOWN,2025-02-03 10:41:15.895473
+TSLA,150.2,145.5,140.5,0.0023,15,Price will go DOWN,2025-02-03 10:41:18.817606
+,0,0,0,0,0,,2025-02-03 10:41:31.948602
+AAPL,175.3,170.45,160.75,0.85,1.2,Price will go DOWN,2025-02-26 19:30:47.142998
