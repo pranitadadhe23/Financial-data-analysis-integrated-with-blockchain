@@ -23,12 +23,14 @@ This project combines financial data analysis with the principles of blockchain 
    git clone https://github.com/yourusername/Financial-data-analysis-integrated-with-blockchain.git
    cd Financial-data-analysis-integrated-with-blockchain
 2. Install required packages:
+```bash 
 pip install yfinance gradio pandas matplotlib
-
+```
 📋 How to Use
 Open the Jupyter Notebook:
+```bash
 jupyter notebook
-
+```
 Run the notebook cells step by step:
 Fetch financial data
 Analyze trends and make predictions
