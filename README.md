@@ -44,6 +44,7 @@ View secured blockchain-stored predictions
 
 🔐 Blockchain Module Overview
 Every prediction is stored in a simple blockchain block containing:
+
 1.Index
 2.Timestamp
 3.Data (stock prediction)
